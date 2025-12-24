@@ -5,7 +5,9 @@
 </picture>
 
 <p align="center">
-  <img src="https://devopswow.com/favicon.svg" alt="DevOpsWoW" width="200" />
+  <a href="https://devopswow.com/about">
+    <img src="https://devopswow.com/favicon.svg" alt="DevOpsWoW" width="200" 
+  </a>
 </p>
 
 <p align="center">
