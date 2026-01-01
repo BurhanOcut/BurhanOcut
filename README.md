@@ -128,16 +128,6 @@ Integrating AI agents into engineering workflows — accelerating delivery witho
 
 <br/>
 
-## Activity Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BurhanOcut&theme=tokyo-night&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BurhanOcut&theme=minimal&hide_border=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanOcut&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
-</picture>
-
-<br/>
-
 ---
 
 <p align="center">
